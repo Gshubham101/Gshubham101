@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gshubham101
 - 👀 I’m interested in Ideating solutions and products!
-- 🌱 I’m currently learning pyhton and AI/ML on python
-- 💞️ I’m looking to collaborate on almost anything python
+- 🌱 I’m currently learning python and AI/ML on python
+- 💞️ I’m looking to collaborate on almost anything startups,product and python
 - 📫 How to reach me twitter:@tamriodirection
 
 <!---
